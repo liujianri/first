@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
                 execShell("am start -n com.hellotalk/.ui.main.MainTabActivity");
             }
         });
-
+        // 注释....
     }
 
 
